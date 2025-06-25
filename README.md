@@ -3,8 +3,6 @@
 
 A simple multiple-choice quiz game built using [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/). The game displays one question at a time and gives players 10 seconds to answer. It’s designed to demonstrate basic game logic, UI rendering, and event handling in Python.
 
-![Quiz Game Screenshot](images/Screenshot1.png)
-
 ---
 
 ##  Features
