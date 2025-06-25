@@ -13,7 +13,7 @@ A simple multiple-choice quiz game built using [Pygame Zero](https://pygame-zero
 - Game over screen when time runs out or all questions are answered
 
 ---
-
+```
 ##  File Structure
 
 QuizGame/
@@ -22,7 +22,7 @@ QuizGame/
 │   └── Screenshot1.png   # Screenshot of the game
 └── README.md             # Project documentation
 
-
+```
 ---
 
 ##  Getting Started
@@ -68,6 +68,3 @@ pgzrun QuizGame.py
 ##  Author
 
 John McGinnes
-
-```
-
